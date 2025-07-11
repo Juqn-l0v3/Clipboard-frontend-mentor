@@ -1,0 +1,10 @@
+# Fuentes:
+ Family: [Bai Jamjuree](https://fonts.google.com/specimen/Bai+Jamjuree)
+# Colores:
+- Primarios: 
+ - Verde 500: hsl(171, 66%, 44%)
+ - Blue 100: hsl(233, 100%, 69%)
+
+- Neutros:
+ - Gris 700: hsl(210, 10%, 33%)
+ - Gris 500: hsl(201, 11%, 66%)
